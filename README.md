@@ -2,7 +2,7 @@
 
 This project was written in R, using data obtained from https://www.kaggle.com/teertha/ushealthinsurancedataset.
 
-- The code is named "Final Project.R", and located in the main directory
+- The code is named "Final Project - Linear Regression.R", and located in the main directory
 
 - The raw data CSV, "insurance.csv", is also available in the main directory.
 
